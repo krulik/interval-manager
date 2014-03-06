@@ -1,7 +1,8 @@
 Interval Manager
 ================
 
-A helper class to manage setInterval tasks.
+A helper class to manage tasks run repeatedly with setInterval.
+You can stop the task after some number of conditions has been satisfied, or after an arbitrary number.
 
 Usage example:
 
